@@ -22,5 +22,5 @@ ChristineOz <br>
 N/A <br>
 
 #Contact <br>
-*Github :ChristineOZ <br>
+*Github :ChristineOz <br>
 *E-mail :christineosmak@gmail.com
