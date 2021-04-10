@@ -21,6 +21,6 @@ ChristineOz <br>
 #License
 N/A <br>
 
-#Contact
-*Github :ChristineOZ
+#Contact <br>
+*Github :ChristineOZ <br>
 *E-mail :christineosmak@gmail.com
