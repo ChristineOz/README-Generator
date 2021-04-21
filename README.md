@@ -11,6 +11,9 @@
 8. [Questions](#questions)
 ## Project Description
 * A generator where you answer questions to introduce and summarize whatever project you created. 
+* 
+[Screen Recording 2021-04-21 at 3.06.42 PM.mov.zip](https://github.com/ChristineOz/README-Generator/files/6353343/Screen.Recording.2021-04-21.at.3.06.42.PM.mov.zip)
+
 ## Installation Instructions
 * Instale npm i & node.js
 ## Usage Information
