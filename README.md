@@ -18,7 +18,7 @@
 ## Contributor 
 * Google
 ## Credits
-* undefined
+* Christine Osmak
 ## Test Instructions
 * N/A
 ## License
