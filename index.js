@@ -33,7 +33,7 @@ function promptUser() {
           },
           {
               type: "input",
-              name: "Credit",
+              name: "credits",
               message: "Please provide credits"
           },
           {
@@ -71,7 +71,7 @@ function generateREADME(answers) {
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Information](#usage-information)
 4. [Contributor](#contributor)
-5. [Credits](#Credits)
+5. [Credits](#credits)
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
