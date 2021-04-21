@@ -11,6 +11,12 @@
 8. [Questions](#questions)
 ## Project Description
 * Answer appropriate questions to help summarize and explain purpose of projects. The application then generates the answers into a new file. 
+
+[Answering Questions through Command Line.zip](https://github.com/ChristineOz/README-Generator/files/6353387/Answering.Questions.through.Command.Line.zip)
+<br>
+[Comparing Answers to File.mov.zip](https://github.com/ChristineOz/README-Generator/files/6353424/Comparing.Answers.to.File.mov.zip)
+
+
 <img width="1044" alt="Screen Shot 2021-04-21 at 3 16 02 PM" src="https://user-images.githubusercontent.com/77952267/115608644-8f7bcb80-a2b4-11eb-8e75-c87edb34d7e7.png">
 https://christineoz.github.io/README-Generator/
 
